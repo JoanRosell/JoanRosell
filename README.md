@@ -5,6 +5,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/git/git-original.svg" width="50" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/github/github-original.svg" width="50" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/ubuntu/ubuntu-plain.svg" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/windows8/windows8-original.svg" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/bash/bash-original.svg" width="50" height="50"/>
 
 ### Languages
@@ -41,7 +42,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIwMzAyNjg3LDE0MjYyOTExNDksLTIwNT
-Y5NTQ2OTksMzQyNTUxOTg0LDM0MjU1MTk4NCwxMTE5Nzg0NDVd
-fQ==
+eyJoaXN0b3J5IjpbMjAxMzQxNTcxOCwxNDI2MjkxMTQ5LC0yMD
+U2OTU0Njk5LDM0MjU1MTk4NCwzNDI1NTE5ODQsMTExOTc4NDQ1
+XX0=
 -->
