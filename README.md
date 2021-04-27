@@ -1,9 +1,9 @@
-### Hi there 👋
+# Hi there 👋
 
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoanRosell&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoanRosell&hide=java,html,css&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoanRosell&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUxMDk3Njk2XX0=
+eyJoaXN0b3J5IjpbMTE1MDc2OTM4MV19
 -->
