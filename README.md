@@ -1,4 +1,5 @@
-# Hi there 👋, I am Joan Rosell
+# Hi there 👋, I am Joan Rosell!
+I'm a computer science student from Barcelona, S
 
 ## Technologies
 ### Tools
@@ -42,7 +43,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNzk2NzcxOCwyMDEzNDE1NzE4LDE0Mj
-YyOTExNDksLTIwNTY5NTQ2OTksMzQyNTUxOTg0LDM0MjU1MTk4
-NCwxMTE5Nzg0NDVdfQ==
+eyJoaXN0b3J5IjpbLTE2ODI4Nzg0NjcsLTgxNzk2NzcxOCwyMD
+EzNDE1NzE4LDE0MjYyOTExNDksLTIwNTY5NTQ2OTksMzQyNTUx
+OTg0LDM0MjU1MTk4NCwxMTE5Nzg0NDVdfQ==
 -->
