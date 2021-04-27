@@ -14,6 +14,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/python/python-original.svg" width="50" />
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/html5/html5-original.svg" width="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/css3/css3-original.svg" width="50" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/javascript/javascript-original.svg" width="50" />
 
 
@@ -41,6 +42,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI4MDAyMjksLTIwNTY5NTQ2OTksMzQyNT
-UxOTg0LDM0MjU1MTk4NCwxMTE5Nzg0NDVdfQ==
+eyJoaXN0b3J5IjpbMTQyNjI5MTE0OSwtMjA1Njk1NDY5OSwzND
+I1NTE5ODQsMzQyNTUxOTg0LDExMTk3ODQ0NV19
 -->
