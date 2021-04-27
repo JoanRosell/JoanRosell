@@ -1,7 +1,8 @@
 # Hi there 👋
 
-## My tools
+## Technologies
 <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/bash/bash-original.svg" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/c/c-original.svg" />
 
 ## &#x1f4c8; My GitHub Stats
 
@@ -24,6 +25,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMDc2NTE1MCwzNDI1NTE5ODQsMzQyNT
+eyJoaXN0b3J5IjpbLTIwMzg0OTQ2NSwzNDI1NTE5ODQsMzQyNT
 UxOTg0LDExMTk3ODQ0NV19
 -->
