@@ -3,11 +3,15 @@
 ## Technologies
 ### Tools
 <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/git/git-original.svg" width="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/github/github-original.svg" width="50" />
 
 ### Languages
 <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/bash/bash-original.svg" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/c/c-original.svg" width="50" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/cplusplus/cplusplus-original.svg" width="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/cplusplus/cplusplus-original.svg" width="50" />
+
+https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/javascript/javascript-original.svg
 
 
 
@@ -32,6 +36,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA1MDUyNDA3LDM0MjU1MTk4NCwzNDI1NT
-E5ODQsMTExOTc4NDQ1XX0=
+eyJoaXN0b3J5IjpbLTE1MTI5ODgxNjIsMzQyNTUxOTg0LDM0Mj
+U1MTk4NCwxMTE5Nzg0NDVdfQ==
 -->
