@@ -6,6 +6,7 @@ Apart from my curricular studies I'm currently enrolled on a Full-Stack Developm
 When I'm not in front of the computer I'm usually playing the piano, reading some good old sci-fi novel (currently tearing through the Dune saga, which I highly recommend!) or playing videogames with my friends.
 
 ## Technologies
+Some of the tools and languages that I used during the past years can be found below. 
 ### Tools
 <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/git/git-original.svg" width="50" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/github/github-original.svg" width="50" />
@@ -43,7 +44,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MzE3NjI3NywtODE3OTY3NzE4LDIwMT
-M0MTU3MTgsMTQyNjI5MTE0OSwtMjA1Njk1NDY5OSwzNDI1NTE5
-ODQsMzQyNTUxOTg0LDExMTk3ODQ0NV19
+eyJoaXN0b3J5IjpbNjkwNDI0NTU5LC04MTc5Njc3MTgsMjAxMz
+QxNTcxOCwxNDI2MjkxMTQ5LC0yMDU2OTU0Njk5LDM0MjU1MTk4
+NCwzNDI1NTE5ODQsMTExOTc4NDQ1XX0=
 -->
