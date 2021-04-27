@@ -3,7 +3,7 @@ I'm a Computer Science student from Barcelona. I'm currently finishing my bachel
 
 Apart from my curricular studies I'm currently enrolled on a Full-Stack Development course on Codecademy, getting familiar with the MERN stack.
 
-When I'm not in front of the computer I'm usually playing the piano or reading some good old sci-fi novel (currently tearing through 
+When I'm not in front of the computer I'm usually playing the piano, reading some good old sci-fi novel (currently tearing through the Dune saga, which I highly recommend!) or playing videogames with my friends.
 
 ## Technologies
 ### Tools
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4OTYwMjg2MiwtODE3OTY3NzE4LDIwMT
+eyJoaXN0b3J5IjpbMTI0MzE3NjI3NywtODE3OTY3NzE4LDIwMT
 M0MTU3MTgsMTQyNjI5MTE0OSwtMjA1Njk1NDY5OSwzNDI1NTE5
 ODQsMzQyNTUxOTg0LDExMTk3ODQ0NV19
 -->
