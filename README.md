@@ -1,5 +1,5 @@
 # Hi there 👋, I am Joan Rosell!
-I'm a computer science student from Barcelona, Spain. I'm currently finishing my bachelor's degree, looking for an internship!
+I'm a Computer Science student from Barcelona who is currently finishing hi bachelor's degree, looking for an internship!
 
 ## Technologies
 ### Tools
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NjQ4Mzg5NywtODE3OTY3NzE4LDIwMT
+eyJoaXN0b3J5IjpbMTA3MTg1NTUwMCwtODE3OTY3NzE4LDIwMT
 M0MTU3MTgsMTQyNjI5MTE0OSwtMjA1Njk1NDY5OSwzNDI1NTE5
 ODQsMzQyNTUxOTg0LDExMTk3ODQ0NV19
 -->
