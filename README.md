@@ -3,7 +3,7 @@
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoanRosell&hide=java,html,css&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoanRosell&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoanRosell&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0ODQ1MDddfQ==
+eyJoaXN0b3J5IjpbMTExOTc4NDQ1XX0=
 -->
