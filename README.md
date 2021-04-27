@@ -1,7 +1,7 @@
 # Hi there 👋, I am Joan Rosell!
-I'm a Computer Science student from Barcelona. I'm currently finishing my bachelor's degree and looking for an internship!
+I'm a Computer Science student from Barcelona. I'm currently finishing my bachelor's degree and looking for an internship! Even though I'm specializing in Computer Engineering and High Performance Computing I'm also interested in Web Development and DevOps.
 
-Even though I'm specializing in Computer Engineering and High Performance Computing I'm also interested in web development and modern 
+Apart from my curricular studies I'm learning modern web devel
 
 ## Technologies
 ### Tools
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2ODg2ODkzNiwtODE3OTY3NzE4LDIwMT
+eyJoaXN0b3J5IjpbMjAxMDMxMjc1MSwtODE3OTY3NzE4LDIwMT
 M0MTU3MTgsMTQyNjI5MTE0OSwtMjA1Njk1NDY5OSwzNDI1NTE5
 ODQsMzQyNTUxOTg0LDExMTk3ODQ0NV19
 -->
