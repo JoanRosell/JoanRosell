@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 👋, I am Joan Rosell
 
 ## Technologies
 ### Tools
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMzQxNTcxOCwxNDI2MjkxMTQ5LC0yMD
-U2OTU0Njk5LDM0MjU1MTk4NCwzNDI1NTE5ODQsMTExOTc4NDQ1
-XX0=
+eyJoaXN0b3J5IjpbLTgxNzk2NzcxOCwyMDEzNDE1NzE4LDE0Mj
+YyOTExNDksLTIwNTY5NTQ2OTksMzQyNTUxOTg0LDM0MjU1MTk4
+NCwxMTE5Nzg0NDVdfQ==
 -->
