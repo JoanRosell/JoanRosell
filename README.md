@@ -18,10 +18,6 @@ I'm a Computer Science student from Barcelona. I'm currently finishing my bachel
 <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/css3/css3-original.svg" width="50" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/javascript/javascript-original.svg" width="50" />
 
-
-
-
-
 ## &#x1f4c8; My GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoanRosell&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
@@ -43,7 +39,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NzQ2Nzk1MywtODE3OTY3NzE4LDIwMT
+eyJoaXN0b3J5IjpbMTc0ODQ0NDU1MSwtODE3OTY3NzE4LDIwMT
 M0MTU3MTgsMTQyNjI5MTE0OSwtMjA1Njk1NDY5OSwzNDI1NTE5
 ODQsMzQyNTUxOTg0LDExMTk3ODQ0NV19
 -->
