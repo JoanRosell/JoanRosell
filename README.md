@@ -8,7 +8,7 @@ When I'm not in front of the computer I'm usually playing the piano, reading som
 ---
 
 ## Technologies
-Some of the tools and languages that I used during the past years can be found below. 
+Some of the tools and languages that I used during the past years are listed below. 
 ### Tools
 <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/git/git-original.svg" width="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/github/github-original.svg" width="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/ubuntu/ubuntu-plain.svg" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/windows8/windows8-original.svg" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/bash/bash-original.svg" width="50" height="50"/>
 
@@ -24,20 +24,7 @@ Some of the tools and languages that I used during the past years can be found b
 
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoanRosell&theme=radical&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**JoanRosell/JoanRosell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTEzMzIyMjk4NzQsNzY4NjE1NjU2LC04Nj
 cxOTQxNjgsLTgxNzk2NzcxOCwyMDEzNDE1NzE4LDE0MjYyOTEx
